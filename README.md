@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Identity
-- 👀 I’m interested in cofing,hacking
+- 👀 I’m interested in coding,hacking and many more stuffs related to computer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @ forhacking008
