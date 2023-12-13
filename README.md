@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Identity
-- 👀 I’m interested in coding,hacking and many more stuffs related to computer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @ forhacking008
+# 👋 Hi, I'm Rajan!
 
-<!---
-Identity-123/Identity-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Code Artisan | Python, Java, JavaScript Enthusiast
+
+Crafting digital experiences with Python, mastering Java intricacies, and adding a touch of JavaScript magic. My repositories are a canvas of diverse interests, blending functionality with aesthetics.
+
+### 🌐 Tech Stack:
+- Python | Java | JavaScript
+- HTML | CSS | Social Engineering
+
+Let's code together! Connect with me on nothing and explore the magic. 🚀
